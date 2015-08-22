@@ -1,0 +1,127 @@
+c:\users\flor\documents\visual studio 2010\Projects\ProyectoIS2\ProyectoIS2\obj\x86\Debug\ProyectoIS2.Administrador.resources
+c:\users\flor\documents\visual studio 2010\Projects\ProyectoIS2\ProyectoIS2\obj\x86\Debug\ProyectoIS2.Login.resources
+c:\users\flor\documents\visual studio 2010\Projects\ProyectoIS2\ProyectoIS2\obj\x86\Debug\ProyectoIS2.Properties.Resources.resources
+c:\users\flor\documents\visual studio 2010\Projects\ProyectoIS2\ProyectoIS2\obj\x86\Debug\ProyectoIS2.csproj.GenerateResource.Cache
+c:\users\flor\documents\visual studio 2010\Projects\ProyectoIS2\ProyectoIS2\bin\Debug\ProyectoIS2.exe
+c:\users\flor\documents\visual studio 2010\Projects\ProyectoIS2\ProyectoIS2\bin\Debug\ProyectoIS2.pdb
+c:\users\flor\documents\visual studio 2010\Projects\ProyectoIS2\ProyectoIS2\obj\x86\Debug\ProyectoIS2.exe
+c:\users\flor\documents\visual studio 2010\Projects\ProyectoIS2\ProyectoIS2\obj\x86\Debug\ProyectoIS2.pdb
+C:\Users\Flor\documents\visual studio 2010\Projects\ProyectoIS2\ProyectoIS2\obj\x86\Debug\ProyectoIS2.csprojResolveAssemblyReference.cache
+C:\Users\Flor\documents\visual studio 2010\Projects\ProyectoIS2\ProyectoIS2\obj\x86\Debug\ProyectoIS2.Principal.resources
+C:\Users\Flor\documents\visual studio 2010\Projects\ProyectoIS2\ProyectoIS2\obj\x86\Debug\ProyectoIS2.Reportes.resources
+C:\Users\Flor\documents\visual studio 2010\Projects\ProyectoIS2\ProyectoIS2\obj\x86\Debug\ProyectoIS2.CrearUsuario.resources
+D:\Cursos-Unsa\4año\IS2\ProyectoIS2\ProyectoIS2\obj\x86\Debug\ProyectoIS2.exe
+D:\Cursos-Unsa\4año\IS2\ProyectoIS2\ProyectoIS2\obj\x86\Debug\ProyectoIS2.pdb
+D:\Cursos-Unsa\4año\IS2\ProyectoIS2\ProyectoIS2\bin\Debug\ProyectoIS2.exe
+D:\Cursos-Unsa\4año\IS2\ProyectoIS2\ProyectoIS2\bin\Debug\ProyectoIS2.pdb
+D:\Cursos-Unsa\4año\IS2\ProyectoIS2\ProyectoIS2\obj\x86\Debug\ProyectoIS2.csprojResolveAssemblyReference.cache
+D:\Cursos-Unsa\4año\IS2\ProyectoIS2\ProyectoIS2\obj\x86\Debug\ProyectoIS2.Administrador.resources
+D:\Cursos-Unsa\4año\IS2\ProyectoIS2\ProyectoIS2\obj\x86\Debug\ProyectoIS2.Login.resources
+D:\Cursos-Unsa\4año\IS2\ProyectoIS2\ProyectoIS2\obj\x86\Debug\ProyectoIS2.Principal.resources
+D:\Cursos-Unsa\4año\IS2\ProyectoIS2\ProyectoIS2\obj\x86\Debug\ProyectoIS2.Properties.Resources.resources
+D:\Cursos-Unsa\4año\IS2\ProyectoIS2\ProyectoIS2\obj\x86\Debug\ProyectoIS2.csproj.GenerateResource.Cache
+D:\Cursos-Unsa\4año\IS2\ProyectoIS2\ProyectoIS2\obj\x86\Debug\ProyectoIS2.Matriculas.resources
+D:\Cursos-Unsa\4año\IS2\ProyectoIS2\ProyectoIS2\obj\x86\Debug\ProyectoIS2.AdministrarComponentes.resources
+D:\Cursos-Unsa\4año\IS2\ProyectoIS2\ProyectoIS2\obj\x86\Debug\ProyectoIS2.Cpu.resources
+D:\Cursos-Unsa\4año\IS2\ProyectoIS2\ProyectoIS2\obj\x86\Debug\ProyectoIS2.Monitor.resources
+D:\Cursos-Unsa\4año\IS2\ProyectoIS2\ProyectoIS2\obj\x86\Debug\ProyectoIS2.Mouse.resources
+D:\Cursos-Unsa\4año\IS2\ProyectoIS2\ProyectoIS2\obj\x86\Debug\ProyectoIS2.Teclado.resources
+D:\Cursos-Unsa\4año\IS2\ProyectoIS2\ProyectoIS2\obj\x86\Debug\ProyectoIS2.AdministrarSoftware.resources
+D:\Cursos-Unsa\4año\IS2\ProyectoIS2\ProyectoIS2\obj\x86\Debug\ProyectoIS2.AdministrarEquipo.resources
+D:\Cursos-Unsa\4año\IS2\ProyectoIS2\ProyectoIS2\obj\x86\Debug\ProyectoIS2.Usuario.resources
+D:\Cursos-Unsa\4año\IS2\ProyectoIS2\ProyectoIS2\bin\Debug\ProyectoIS2.exe.config
+D:\Cursos-Unsa\4año\IS2\ProyectoIS2\ProyectoIS2\obj\x86\Debug\ProyectoIS2.Laboratorio.resources
+D:\Cursos-Unsa\4año\IS2\ProyectoIS2\ProyectoIS2\obj\x86\Debug\ProyectoIS2.Horario.resources
+D:\Cursos-Unsa\4año\IS2\ProyectoIS2\ProyectoIS2\obj\x86\Debug\ProyectoIS2.Admin.resources
+D:\Cursos-Unsa\4año\IS2\ProyectoIS2\ProyectoIS2\obj\x86\Debug\ProyectoIS2.AdministrarUsuario.resources
+D:\Cursos-Unsa\4año\IS2\ProyectoIS2\ProyectoIS2\obj\x86\Debug\ProyectoIS2.ReportesAdministrador.resources
+D:\Cursos-Unsa\4año\IS2\ProyectoIS2\ProyectoIS2\obj\x86\Debug\ProyectoIS2.ReportesUsuario.resources
+C:\Users\GGUTIERREZ\Desktop\Sistema de Gestión de Laboratorios EPIS\ProyectoIS2\ProyectoIS2\bin\Debug\ProyectoIS2.exe.config
+C:\Users\GGUTIERREZ\Desktop\Sistema de Gestión de Laboratorios EPIS\ProyectoIS2\ProyectoIS2\obj\x86\Debug\ProyectoIS2.exe
+C:\Users\GGUTIERREZ\Desktop\Sistema de Gestión de Laboratorios EPIS\ProyectoIS2\ProyectoIS2\obj\x86\Debug\ProyectoIS2.pdb
+C:\Users\User\Desktop\ProyectoIS2\ProyectoIS2\ProyectoIS2\bin\Debug\ProyectoIS2.exe.config
+C:\Users\User\Desktop\ProyectoIS2\ProyectoIS2\ProyectoIS2\obj\x86\Debug\ProyectoIS2.exe
+C:\Users\User\Desktop\ProyectoIS2\ProyectoIS2\ProyectoIS2\obj\x86\Debug\ProyectoIS2.pdb
+C:\Users\User\Desktop\ProyectoIS2\ProyectoIS2\ProyectoIS2\bin\Debug\ProyectoIS2.exe
+C:\Users\User\Desktop\ProyectoIS2\ProyectoIS2\ProyectoIS2\bin\Debug\ProyectoIS2.pdb
+C:\Users\User\Desktop\ProyectoIS2\ProyectoIS2\ProyectoIS2\obj\x86\Debug\ProyectoIS2.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\ProyectoIS2\ProyectoIS2\ProyectoIS2\obj\x86\Debug\ProyectoIS2.Admin.resources
+C:\Users\User\Desktop\ProyectoIS2\ProyectoIS2\ProyectoIS2\obj\x86\Debug\ProyectoIS2.Administrador.resources
+C:\Users\User\Desktop\ProyectoIS2\ProyectoIS2\ProyectoIS2\obj\x86\Debug\ProyectoIS2.AdministrarSoftware.resources
+C:\Users\User\Desktop\ProyectoIS2\ProyectoIS2\ProyectoIS2\obj\x86\Debug\ProyectoIS2.AdministrarUsuario.resources
+C:\Users\User\Desktop\ProyectoIS2\ProyectoIS2\ProyectoIS2\obj\x86\Debug\ProyectoIS2.Cpu.resources
+C:\Users\User\Desktop\ProyectoIS2\ProyectoIS2\ProyectoIS2\obj\x86\Debug\ProyectoIS2.Horario.resources
+C:\Users\User\Desktop\ProyectoIS2\ProyectoIS2\ProyectoIS2\obj\x86\Debug\ProyectoIS2.Laboratorio.resources
+C:\Users\User\Desktop\ProyectoIS2\ProyectoIS2\ProyectoIS2\obj\x86\Debug\ProyectoIS2.ReportesAdministrador.resources
+C:\Users\User\Desktop\ProyectoIS2\ProyectoIS2\ProyectoIS2\obj\x86\Debug\ProyectoIS2.Usuario.resources
+C:\Users\User\Desktop\ProyectoIS2\ProyectoIS2\ProyectoIS2\obj\x86\Debug\ProyectoIS2.AdministrarEquipo.resources
+C:\Users\User\Desktop\ProyectoIS2\ProyectoIS2\ProyectoIS2\obj\x86\Debug\ProyectoIS2.Login.resources
+C:\Users\User\Desktop\ProyectoIS2\ProyectoIS2\ProyectoIS2\obj\x86\Debug\ProyectoIS2.Matriculas.resources
+C:\Users\User\Desktop\ProyectoIS2\ProyectoIS2\ProyectoIS2\obj\x86\Debug\ProyectoIS2.Monitor.resources
+C:\Users\User\Desktop\ProyectoIS2\ProyectoIS2\ProyectoIS2\obj\x86\Debug\ProyectoIS2.Mouse.resources
+C:\Users\User\Desktop\ProyectoIS2\ProyectoIS2\ProyectoIS2\obj\x86\Debug\ProyectoIS2.Principal.resources
+C:\Users\User\Desktop\ProyectoIS2\ProyectoIS2\ProyectoIS2\obj\x86\Debug\ProyectoIS2.Properties.Resources.resources
+C:\Users\User\Desktop\ProyectoIS2\ProyectoIS2\ProyectoIS2\obj\x86\Debug\ProyectoIS2.AdministrarComponentes.resources
+C:\Users\User\Desktop\ProyectoIS2\ProyectoIS2\ProyectoIS2\obj\x86\Debug\ProyectoIS2.ReportesUsuario.resources
+C:\Users\User\Desktop\ProyectoIS2\ProyectoIS2\ProyectoIS2\obj\x86\Debug\ProyectoIS2.Teclado.resources
+C:\Users\User\Desktop\ProyectoIS2\ProyectoIS2\ProyectoIS2\obj\x86\Debug\ProyectoIS2.csproj.GenerateResource.Cache
+D:\Cursos-Unsa\4año\IS2\ProyectoV2\ProyectoIS2\ProyectoIS2\bin\Debug\ProyectoIS2.exe.config
+D:\Cursos-Unsa\4año\IS2\ProyectoV2\ProyectoIS2\ProyectoIS2\obj\x86\Debug\ProyectoIS2.exe
+D:\Cursos-Unsa\4año\IS2\ProyectoV2\ProyectoIS2\ProyectoIS2\obj\x86\Debug\ProyectoIS2.pdb
+D:\Cursos-Unsa\4año\IS2\ProyectoV2\ProyectoIS2\ProyectoIS2\bin\Debug\ProyectoIS2.exe
+D:\Cursos-Unsa\4año\IS2\ProyectoV2\ProyectoIS2\ProyectoIS2\bin\Debug\ProyectoIS2.pdb
+D:\Cursos-Unsa\4año\IS2\ProyectoV2\ProyectoIS2\ProyectoIS2\obj\x86\Debug\ProyectoIS2.csprojResolveAssemblyReference.cache
+D:\Cursos-Unsa\4año\IS2\ProyectoV2\ProyectoIS2\ProyectoIS2\obj\x86\Debug\ProyectoIS2.Admin.resources
+D:\Cursos-Unsa\4año\IS2\ProyectoV2\ProyectoIS2\ProyectoIS2\obj\x86\Debug\ProyectoIS2.Administrador.resources
+D:\Cursos-Unsa\4año\IS2\ProyectoV2\ProyectoIS2\ProyectoIS2\obj\x86\Debug\ProyectoIS2.AdministrarSoftware.resources
+D:\Cursos-Unsa\4año\IS2\ProyectoV2\ProyectoIS2\ProyectoIS2\obj\x86\Debug\ProyectoIS2.AdministrarUsuario.resources
+D:\Cursos-Unsa\4año\IS2\ProyectoV2\ProyectoIS2\ProyectoIS2\obj\x86\Debug\ProyectoIS2.Cpu.resources
+D:\Cursos-Unsa\4año\IS2\ProyectoV2\ProyectoIS2\ProyectoIS2\obj\x86\Debug\ProyectoIS2.Horario.resources
+D:\Cursos-Unsa\4año\IS2\ProyectoV2\ProyectoIS2\ProyectoIS2\obj\x86\Debug\ProyectoIS2.Laboratorio.resources
+D:\Cursos-Unsa\4año\IS2\ProyectoV2\ProyectoIS2\ProyectoIS2\obj\x86\Debug\ProyectoIS2.ReportesAdministrador.resources
+D:\Cursos-Unsa\4año\IS2\ProyectoV2\ProyectoIS2\ProyectoIS2\obj\x86\Debug\ProyectoIS2.Usuario.resources
+D:\Cursos-Unsa\4año\IS2\ProyectoV2\ProyectoIS2\ProyectoIS2\obj\x86\Debug\ProyectoIS2.AdministrarEquipo.resources
+D:\Cursos-Unsa\4año\IS2\ProyectoV2\ProyectoIS2\ProyectoIS2\obj\x86\Debug\ProyectoIS2.Login.resources
+D:\Cursos-Unsa\4año\IS2\ProyectoV2\ProyectoIS2\ProyectoIS2\obj\x86\Debug\ProyectoIS2.Matriculas.resources
+D:\Cursos-Unsa\4año\IS2\ProyectoV2\ProyectoIS2\ProyectoIS2\obj\x86\Debug\ProyectoIS2.Monitor.resources
+D:\Cursos-Unsa\4año\IS2\ProyectoV2\ProyectoIS2\ProyectoIS2\obj\x86\Debug\ProyectoIS2.Mouse.resources
+D:\Cursos-Unsa\4año\IS2\ProyectoV2\ProyectoIS2\ProyectoIS2\obj\x86\Debug\ProyectoIS2.Principal.resources
+D:\Cursos-Unsa\4año\IS2\ProyectoV2\ProyectoIS2\ProyectoIS2\obj\x86\Debug\ProyectoIS2.Properties.Resources.resources
+D:\Cursos-Unsa\4año\IS2\ProyectoV2\ProyectoIS2\ProyectoIS2\obj\x86\Debug\ProyectoIS2.AdministrarComponentes.resources
+D:\Cursos-Unsa\4año\IS2\ProyectoV2\ProyectoIS2\ProyectoIS2\obj\x86\Debug\ProyectoIS2.ReportesUsuario.resources
+D:\Cursos-Unsa\4año\IS2\ProyectoV2\ProyectoIS2\ProyectoIS2\obj\x86\Debug\ProyectoIS2.Teclado.resources
+D:\Cursos-Unsa\4año\IS2\ProyectoV2\ProyectoIS2\ProyectoIS2\obj\x86\Debug\ProyectoIS2.csproj.GenerateResource.Cache
+D:\Cursos-Unsa\4año\IS2\ProyectoV2\ProyectoIS2\ProyectoIS2\bin\Debug\ProyectoIS2.exe.manifest
+D:\Cursos-Unsa\4año\IS2\ProyectoV2\ProyectoIS2\ProyectoIS2\bin\Debug\ProyectoIS2.application
+D:\Cursos-Unsa\4año\IS2\ProyectoV2\ProyectoIS2\ProyectoIS2\obj\x86\Debug\ProyectoIS2.exe.manifest
+D:\Cursos-Unsa\4año\IS2\ProyectoV2\ProyectoIS2\ProyectoIS2\obj\x86\Debug\ProyectoIS2.application
+C:\Users\GGUTIERREZ\Desktop\Sistema de Gestión de Laboratorios EPIS\Presentación\ProyectoIS2\ProyectoIS2\bin\Debug\ProyectoIS2.exe.config
+C:\Users\GGUTIERREZ\Desktop\Sistema de Gestión de Laboratorios EPIS\Presentación\ProyectoIS2\ProyectoIS2\obj\x86\Debug\ProyectoIS2.exe
+C:\Users\GGUTIERREZ\Desktop\Sistema de Gestión de Laboratorios EPIS\Presentación\ProyectoIS2\ProyectoIS2\obj\x86\Debug\ProyectoIS2.pdb
+C:\Users\GGUTIERREZ\Desktop\Sistema de Gestión de Laboratorios EPIS\Presentación\ProyectoIS2\ProyectoIS2\bin\Debug\ProyectoIS2.exe.manifest
+C:\Users\GGUTIERREZ\Desktop\Sistema de Gestión de Laboratorios EPIS\Presentación\ProyectoIS2\ProyectoIS2\bin\Debug\ProyectoIS2.application
+C:\Users\GGUTIERREZ\Desktop\Sistema de Gestión de Laboratorios EPIS\Presentación\ProyectoIS2\ProyectoIS2\bin\Debug\ProyectoIS2.exe
+C:\Users\GGUTIERREZ\Desktop\Sistema de Gestión de Laboratorios EPIS\Presentación\ProyectoIS2\ProyectoIS2\bin\Debug\ProyectoIS2.pdb
+C:\Users\GGUTIERREZ\Desktop\Sistema de Gestión de Laboratorios EPIS\Presentación\ProyectoIS2\ProyectoIS2\obj\x86\Debug\ProyectoIS2.csprojResolveAssemblyReference.cache
+C:\Users\GGUTIERREZ\Desktop\Sistema de Gestión de Laboratorios EPIS\Presentación\ProyectoIS2\ProyectoIS2\obj\x86\Debug\ProyectoIS2.Admin.resources
+C:\Users\GGUTIERREZ\Desktop\Sistema de Gestión de Laboratorios EPIS\Presentación\ProyectoIS2\ProyectoIS2\obj\x86\Debug\ProyectoIS2.Administrador.resources
+C:\Users\GGUTIERREZ\Desktop\Sistema de Gestión de Laboratorios EPIS\Presentación\ProyectoIS2\ProyectoIS2\obj\x86\Debug\ProyectoIS2.AdministrarSoftware.resources
+C:\Users\GGUTIERREZ\Desktop\Sistema de Gestión de Laboratorios EPIS\Presentación\ProyectoIS2\ProyectoIS2\obj\x86\Debug\ProyectoIS2.AdministrarUsuario.resources
+C:\Users\GGUTIERREZ\Desktop\Sistema de Gestión de Laboratorios EPIS\Presentación\ProyectoIS2\ProyectoIS2\obj\x86\Debug\ProyectoIS2.Cpu.resources
+C:\Users\GGUTIERREZ\Desktop\Sistema de Gestión de Laboratorios EPIS\Presentación\ProyectoIS2\ProyectoIS2\obj\x86\Debug\ProyectoIS2.Horario.resources
+C:\Users\GGUTIERREZ\Desktop\Sistema de Gestión de Laboratorios EPIS\Presentación\ProyectoIS2\ProyectoIS2\obj\x86\Debug\ProyectoIS2.Laboratorio.resources
+C:\Users\GGUTIERREZ\Desktop\Sistema de Gestión de Laboratorios EPIS\Presentación\ProyectoIS2\ProyectoIS2\obj\x86\Debug\ProyectoIS2.ReportesAdministrador.resources
+C:\Users\GGUTIERREZ\Desktop\Sistema de Gestión de Laboratorios EPIS\Presentación\ProyectoIS2\ProyectoIS2\obj\x86\Debug\ProyectoIS2.Usuario.resources
+C:\Users\GGUTIERREZ\Desktop\Sistema de Gestión de Laboratorios EPIS\Presentación\ProyectoIS2\ProyectoIS2\obj\x86\Debug\ProyectoIS2.AdministrarEquipo.resources
+C:\Users\GGUTIERREZ\Desktop\Sistema de Gestión de Laboratorios EPIS\Presentación\ProyectoIS2\ProyectoIS2\obj\x86\Debug\ProyectoIS2.Login.resources
+C:\Users\GGUTIERREZ\Desktop\Sistema de Gestión de Laboratorios EPIS\Presentación\ProyectoIS2\ProyectoIS2\obj\x86\Debug\ProyectoIS2.Matriculas.resources
+C:\Users\GGUTIERREZ\Desktop\Sistema de Gestión de Laboratorios EPIS\Presentación\ProyectoIS2\ProyectoIS2\obj\x86\Debug\ProyectoIS2.Monitor.resources
+C:\Users\GGUTIERREZ\Desktop\Sistema de Gestión de Laboratorios EPIS\Presentación\ProyectoIS2\ProyectoIS2\obj\x86\Debug\ProyectoIS2.Mouse.resources
+C:\Users\GGUTIERREZ\Desktop\Sistema de Gestión de Laboratorios EPIS\Presentación\ProyectoIS2\ProyectoIS2\obj\x86\Debug\ProyectoIS2.Principal.resources
+C:\Users\GGUTIERREZ\Desktop\Sistema de Gestión de Laboratorios EPIS\Presentación\ProyectoIS2\ProyectoIS2\obj\x86\Debug\ProyectoIS2.Properties.Resources.resources
+C:\Users\GGUTIERREZ\Desktop\Sistema de Gestión de Laboratorios EPIS\Presentación\ProyectoIS2\ProyectoIS2\obj\x86\Debug\ProyectoIS2.AdministrarComponentes.resources
+C:\Users\GGUTIERREZ\Desktop\Sistema de Gestión de Laboratorios EPIS\Presentación\ProyectoIS2\ProyectoIS2\obj\x86\Debug\ProyectoIS2.ReportesUsuario.resources
+C:\Users\GGUTIERREZ\Desktop\Sistema de Gestión de Laboratorios EPIS\Presentación\ProyectoIS2\ProyectoIS2\obj\x86\Debug\ProyectoIS2.Teclado.resources
+C:\Users\GGUTIERREZ\Desktop\Sistema de Gestión de Laboratorios EPIS\Presentación\ProyectoIS2\ProyectoIS2\obj\x86\Debug\ProyectoIS2.csproj.GenerateResource.Cache
+C:\Users\GGUTIERREZ\Desktop\Sistema de Gestión de Laboratorios EPIS\Presentación\ProyectoIS2\ProyectoIS2\obj\x86\Debug\ProyectoIS2.exe.manifest
+C:\Users\GGUTIERREZ\Desktop\Sistema de Gestión de Laboratorios EPIS\Presentación\ProyectoIS2\ProyectoIS2\obj\x86\Debug\ProyectoIS2.application
